@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/u && find .
+mkdir -p /tmp/u find .
