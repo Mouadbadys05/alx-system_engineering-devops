@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i 's/[Cc]//g' input_file
